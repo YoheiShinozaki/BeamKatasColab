@@ -1,6 +1,6 @@
-# Beam Katas Colab
+# Apache Beam Katas on Colab
 
-- About Apache Beam Katas
+## About Apache Beam Katas
 [Apache Beam Katas](https://beam.apache.org/blog/2019/05/30/beam-kata-release.html)
 
 ## Most of instructions and code samples are taken out from Github repo of the Apache Beam Katas
