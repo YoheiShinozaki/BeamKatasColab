@@ -11,3 +11,6 @@
 
 ## Graphical representation of pipelines with Apache Beam InteractiveRunner
 [Interactive Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/runners/interactive/README.md)
+
+## Colab GitHub integration
+[Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
