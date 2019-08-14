@@ -6,7 +6,7 @@
 ## Most of code is taken out from Github repo of the Apache Beam Katas
 [Beam Katas](https://github.com/apache/beam/tree/master/learning/katas)
 
-## Python collection demo inspired by a Medium article
+## Python collection demo inspired by a Medium article by Lak
 [How to quickly experiment with Dataflow (Apache Beam Python)](https://medium.com/google-cloud/quickly-experiment-with-dataflow-3d5a0da8d8e9)
 
 ## Apache Beam InteractiveRunner
