@@ -6,7 +6,7 @@
 
 # Apache Beam Katas on Colab
 
-## Acknowledgement
+## Reference and acknowledgement
 
 **Apache Beam Katas**
 
