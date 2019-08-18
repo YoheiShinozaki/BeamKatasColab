@@ -1,6 +1,7 @@
-![Apache Beam](/images/beam-logo-full-color-name-right-500.png)
-
-![CodeKata](/images/kitten2.jpg)
+<div align="center">
+<img src="images/beam-logo-full-color-name-right-500.png" alt="Apache Beam" width="40%">
+<img src="images/kitten2.jpg" alt="CodeKata" width="40%">
+</div>
 
 # Apache Beam Katas on Colab
 
